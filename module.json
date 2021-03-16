@@ -14,5 +14,5 @@
   "languages": [],
 	"url": "https://github.com/monolar/mce-config",
     "manifest": "https://raw.githubusercontent.com/monolar/mce-config/master/module.json",
-    "download": "https://github.com/monolar/mce-config/archive/master.zip"
+    "download": "https://github.com/monolar/mce-config/archive/0.0.2.zip"
 }
